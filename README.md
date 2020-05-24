@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-1.[Introuduction/Business Problem](#heading)
-    * [*Description*](#sub-heading)
+[1.Introuduction/Business Problem](#heading)
+   * [*Description*](#sub-heading)
     
 - [Data](#heading-1)
   * [Sub-heading](#sub-heading-1)
@@ -18,7 +18,7 @@
 <!-- toc -->
 
 ## Introduction/Business Problem:
-1.*__Description:__*
++ *__Description:__*
 
 This is an h2 heading
 
