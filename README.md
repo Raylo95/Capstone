@@ -18,8 +18,7 @@
 <!-- toc -->
 
 ## Introduction/Business Problem:
-
-    1. *__Description:__*
+1.*__Description:__*
 
 This is an h2 heading
 
