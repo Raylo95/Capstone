@@ -4,7 +4,7 @@
 
 ## Table of Contents
 1. [Introduction/Business Problem](#heading)
-  * [Description](#sub-heading)
+   * [Description](#sub-heading)
     
 - [Heading](#heading-1)
   * [Sub-heading](#sub-heading-1)
