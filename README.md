@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [Introuduction/Business Problem](#heading)
-  1. [*Description*](#sub-heading)
+  ... 1. [*Description*](#sub-heading)
     
 - [Data](#heading-1)
   * [Sub-heading](#sub-heading-1)
@@ -19,7 +19,7 @@
 
 ## Introduction/Business Problem:
 
-### 1.*Description:*
+### ... 1.*Description:*
 
 This is an h2 heading
 
