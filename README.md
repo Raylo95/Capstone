@@ -19,7 +19,7 @@
 
 ## Introduction/Business Problem:
 
-### __Description__
+### *Description:*
 
 This is an h2 heading
 
