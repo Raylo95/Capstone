@@ -5,9 +5,9 @@
 ## Table of Contents
 
 - [Introuduction/Business Problem](#heading)
-  * [Sub-heading](#Describtion)
-    + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#heading-1)
+  * [Sub-heading](#sub-heading)
+    
+- [Data](#heading-1)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
 - [Heading](#heading-2)
@@ -19,9 +19,7 @@
 
 ## Introduction/Business Problem:
 
-This is an h1 heading
-
-### Sub-heading
+### __Description__
 
 This is an h2 heading
 
@@ -29,7 +27,7 @@ This is an h2 heading
 
 This is an h3 heading
 
-## Heading
+## Data:
 
 This is an h1 heading
 
