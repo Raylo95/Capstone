@@ -3,7 +3,7 @@
 
 
 ## Table of Contents
-1. [Introduction/Business Problem](#heading)
+1. [Introduction/Business Problem](https://github.com/Raylo95/Capstone#1-introductionbusiness-problem)
    * [Description](#sub-heading)
     
 2. [Data](#heading-1)
