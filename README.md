@@ -27,7 +27,7 @@ A restaurant owner wants to relocate their business to New York City and they wa
    ### _Foursquare Location Data:_
 * Foursquare is a technology platform that has a massive location dataset
 * Will be using the dataset to find the different venues in each neighborhoods
-* Using the data to find the borougha and neighborhood with the least amount of competition
+* Using the data to find the borough and neighborhood with the least amount of competition
 
  ### _Crime Data:_
  * The crime data was obtained from NYC Open Data which the data was provided by the New York City Police Department
