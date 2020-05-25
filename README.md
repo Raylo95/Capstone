@@ -27,10 +27,12 @@ A store owner wants to relocate their business to New York City and they want to
    ### _Foursquare Location Data:_
 * Foursquare is a technology platform that has a massive location dataset
 * Will be using the dataset to find the different venues in each neighborhoods
+* Using the data to find the borougha and neighborhood with the least amount of competition
 
  ### _Crime Data:_
  * The crime data was obtained from NYC Open Data which the data was provided by the New York City Police Department
  * The data size is 108,058 rows and 35 columns
+ * Will be using the datset to find the borough and neighborhood safest for the store owner
  * A link to the data set can be found [here](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-Year-To-Date-/5uac-w243)
 
 
