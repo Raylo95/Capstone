@@ -32,7 +32,7 @@ A restaurant owner wants to relocate their business to New York City and they wa
  ### _Crime Data:_
  * The crime data was obtained from NYC Open Data which the data was provided by the New York City Police Department
  * The data size is 108,058 rows and 35 columns
- * Will be using the datset to find the borough and neighborhood safest for the store owner
+ * Will be using the datset to find the borough and neighborhood safest for the restaurant owner
  * A link to the data set can be found [here](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-Year-To-Date-/5uac-w243)
 
 
