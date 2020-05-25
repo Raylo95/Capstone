@@ -4,11 +4,11 @@
 
 ## Table of Contents
 1. [Introduction/Business Problem](https://github.com/Raylo95/Capstone#1-introductionbusiness-problem)
-   * [Description](#sub-heading)
+   * [Description](https://github.com/Raylo95/Capstone#description)
     
-2. [Data](#heading-1)
-    * [Foursquare Location Data](#sub-heading-1)
-    * [Crime Data](#sub-heading-2)
+2. [Data](https://github.com/Raylo95/Capstone#2-data)
+    * [Foursquare Location Data](#https://github.com/Raylo95/Capstone#foursquare-location-data)
+    * [Crime Data](https://github.com/Raylo95/Capstone#crime-data)
 
 
 ---
