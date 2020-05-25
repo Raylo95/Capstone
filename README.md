@@ -1,5 +1,5 @@
 
-# Capstone Project
+# The Battle of the Neighborhoods Capstone Project
 
 
 ## Table of Contents
