@@ -18,7 +18,7 @@
 
   ### _Description:_
 
-A restaurant owner wants to relocate their business to New York City and they want to know what would be the best area for them to relocate to. They are worried about potential crimes happening to the store due to the previous area where the business resided having frequent robberies/burglaries. What borough and neighborhood would be best for the store owner to relocate?
+A restaurant owner wants to relocate their business to New York City and they want to know what would be the best area for them to relocate to. The first reason they want to move their business is they want a better opportunity to expand their business and not having to worry about having a lot of competition like the previous area. The second reason for relocating is due to the robberies and burglaries the restaurant was experiencing in the previous area. It's only natural they are worried about potential robberies and burglaries happening to the restaurant if they move to New York City. Which leads to the question that needs to be solved; and that is what borough and neighborhood would be best for the store owner to relocate?
 
 ---
 
