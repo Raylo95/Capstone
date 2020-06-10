@@ -34,5 +34,10 @@ A restaurant owner wants to relocate their business to New York City and they wa
  * The data size is 108,058 rows and 35 columns
  * Will be using the datset to find the borough and neighborhood safest for the restaurant owner
  * A link to the data set can be found [here](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-Year-To-Date-/5uac-w243)
+ ### _GIS Data:_
+ * GIS data used to get the boundaries of each borough 
+ * Used to create choropleth map for EDA
+ * GIS data obtained from [here](https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm) 
+
 
 
