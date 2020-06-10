@@ -9,6 +9,7 @@
 2. [Data](https://github.com/Raylo95/Capstone#2-data)
     * [Foursquare Location Data](https://github.com/Raylo95/Capstone#foursquare-location-data)
     * [Crime Data](https://github.com/Raylo95/Capstone#crime-data)
+    * [GIS Data](https://github.com/Raylo95/Capstone#gis-data)
 
 
 ---
