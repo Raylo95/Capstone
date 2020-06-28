@@ -44,6 +44,7 @@ A restaurant owner wants to relocate their business to New York City and they wa
  ### _NYU Spatial Data Repository:_
  * Used to get the longitude and latitude of the neighborhoods
  * The longitude and latitude of the neighborhoods will be used to get the venues
+ * Can find the json file [here](https://geo.nyu.edu/catalog/nyu_2451_34572)
 
 
 
