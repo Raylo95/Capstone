@@ -10,7 +10,7 @@
     * [Foursquare Location Data](https://github.com/Raylo95/Capstone#foursquare-location-data)
     * [Crime Data](https://github.com/Raylo95/Capstone#crime-data)
     * [GIS Data](https://github.com/Raylo95/Capstone#gis-data)
-    * [NYC Spatial Data Repository](https://github.com/Raylo95/Capstone/blob/master/README.md#nyc-spatial-data-repository)
+    * [NYU Spatial Data Repository](https://github.com/Raylo95/Capstone/blob/master/README.md#nyu-spatial-data-repository)
 
 
 ---
@@ -41,7 +41,7 @@ A restaurant owner wants to relocate their business to New York City and they wa
  * Used to create choropleth map for EDA
  * GIS data obtained from [here](https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm) 
  
- ### _NYC Spatial Data Repository:_
+ ### _NYU Spatial Data Repository:_
  * Used to get the longitude and latitude of the neighborhoods
  * The longitude and latitude of the neighborhoods will be used to get the venues
 
