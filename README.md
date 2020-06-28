@@ -10,6 +10,7 @@
     * [Foursquare Location Data](https://github.com/Raylo95/Capstone#foursquare-location-data)
     * [Crime Data](https://github.com/Raylo95/Capstone#crime-data)
     * [GIS Data](https://github.com/Raylo95/Capstone#gis-data)
+    * [NYC Spatial Data Repository]
 
 
 ---
