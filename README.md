@@ -39,6 +39,10 @@ A restaurant owner wants to relocate their business to New York City and they wa
  * GIS data used to get the boundaries of each borough 
  * Used to create choropleth map for EDA
  * GIS data obtained from [here](https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm) 
+ 
+ ### _NYC Spatial Data Repository:_
+ * Used to get the longitude and latitude of the neighborhoods
+ * The longitude and latitude of the neighborhoods will be used to get the venues
 
 
 
