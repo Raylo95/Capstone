@@ -63,11 +63,16 @@ A restaurant owner wants to relocate their business to New York City and they wa
 ## 3. Methodology
 
   ### EDA
-    * Neighborhood and Venue Distribution
-    * Crime Distribution
-    * Crime Rate
+  * Neighborhood and Venue Distribution
+  * Crime Distribution
+  * Crime Rate
+    
+![Example Graph](/Users/ramonlopez/Desktop/CAP/Cap Graphs/Crime Graphs/Type v Total.png)
+    
   ### Machine Learning
-    * DBSCAN Clustering 
+  * DBSCAN Clustering 
+    
+  
 
 ## 4. Results
   * Results of the borough that is safest and has the least amount of competition can be found in the notebook **EDA Venues**
