@@ -1,4 +1,6 @@
 
+![](https://www.cynopsis.com/wp-content/uploads/2016/11/nyc-skyline.jpg)
+
 # The Battle of the Neighborhoods
 
 
@@ -66,7 +68,8 @@ A restaurant owner wants to relocate their business to New York City and they wa
   * Neighborhood and Venue Distribution
   * Crime Distribution
   * Crime Rate
-    
+ 
+![](/Users/ramonlopez/Desktop/CAP/Cap Graphs/Crime Graphs/Type V Total.png)
 
     
   ### Machine Learning
