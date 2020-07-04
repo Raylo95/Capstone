@@ -2,6 +2,7 @@
 # The Battle of the Neighborhoods
 
 
+
 ## Table of Contents
 1. [Introduction/Business Problem](https://github.com/Raylo95/Capstone#1-introductionbusiness-problem)
    * [Description](https://github.com/Raylo95/Capstone#description)
@@ -11,6 +12,19 @@
     * [Crime Data](https://github.com/Raylo95/Capstone#crime-data)
     * [GIS Data](https://github.com/Raylo95/Capstone#gis-data)
     * [NYU Spatial Data Repository](https://github.com/Raylo95/Capstone/blob/master/README.md#nyu-spatial-data-repository)
+    
+3. [Methodology]()
+    * [EDA]()
+     
+    * [Machine Learning]()
+    
+4.[Results]()
+
+
+
+  
+     
+    
 
 
 ---
@@ -46,5 +60,16 @@ A restaurant owner wants to relocate their business to New York City and they wa
  * The longitude and latitude of the neighborhoods will be used to get the venues
  * Can find the json file [here](https://geo.nyu.edu/catalog/nyu_2451_34572)
 
+## 3. Methodology
 
+  ### EDA
+    * Neighborhood and Venue Distribution
+    * Crime Distribution
+    * Crime Rate
+  ### Machine Learning
+    * DBSCAN Clustering 
+
+## 4. Results
+  * Results of the borough that is safest and has the least amount of competition can be found in the notebook **EDA Venues**
+  * Results of the optimal neighborhoods can found in the notebook **Clustering Restaurant Crimes and Venues**
 
