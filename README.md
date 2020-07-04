@@ -75,7 +75,7 @@ A restaurant owner wants to relocate their business to New York City and they wa
   ### Machine Learning
   * DBSCAN Clustering 
     
-  
+  ![](https://github.com/Raylo95/Capstone/blob/master/Cap%20Graphs/Cluster%20Maps/Cluster%20Results.png)
 
 ## 4. Results
   * Results of the borough that is safest and has the least amount of competition can be found in the notebook **EDA Venues**
