@@ -13,12 +13,12 @@
     * [GIS Data](https://github.com/Raylo95/Capstone#gis-data)
     * [NYU Spatial Data Repository](https://github.com/Raylo95/Capstone/blob/master/README.md#nyu-spatial-data-repository)
     
-3. [Methodology]()
-    * [EDA]()
+3. [Methodology](https://github.com/Raylo95/Capstone/blob/master/README.md#3-methodology)
+    * [EDA](https://github.com/Raylo95/Capstone/blob/master/README.md#eda)
      
-    * [Machine Learning]()
+    * [Machine Learning](https://github.com/Raylo95/Capstone/blob/master/README.md#machine-learning)
     
-4.[Results]()
+4.[Results](https://github.com/Raylo95/Capstone/blob/master/README.md#4-results)
 
 
 
