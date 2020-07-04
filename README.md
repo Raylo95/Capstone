@@ -67,7 +67,7 @@ A restaurant owner wants to relocate their business to New York City and they wa
   * Crime Distribution
   * Crime Rate
     
-! [Example Graph](/Users/ramonlopez/Desktop/CAP/Cap Graphs/Crime Graphs/Type v Total.png)
+![Example Graph](Users/ramonlopez/Desktop/CAP/Cap Graphs/Crime Graphs/Type v Total.png)
     
   ### Machine Learning
   * DBSCAN Clustering 
