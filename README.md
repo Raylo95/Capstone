@@ -69,7 +69,7 @@ A restaurant owner wants to relocate their business to New York City and they wa
   * Crime Distribution
   * Crime Rate
  
-![](/Users/ramonlopez/Desktop/CAP/Cap Graphs/Crime Graphs/Type V Total.png)
+![](https://github.com/Raylo95/Capstone/blob/master/Cap%20Graphs/Crime%20Graphs/Type%20v%20Total.png)
 
     
   ### Machine Learning
