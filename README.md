@@ -80,4 +80,5 @@ A restaurant owner wants to relocate their business to New York City and they wa
 ## 4. Results
   * Results of the borough that is safest and has the least amount of competition can be found in the notebook **EDA Venues**
   * Results of the optimal neighborhoods can found in the notebook **Clustering Restaurant Crimes and Venues**
+  * [Report](https://liveesu-my.sharepoint.com/:w:/g/personal/rlopez7_live_esu_edu/EQSu3a6XOzlOseG70q399roBivonmOAvzvvYYzjI8CzQkQ?e=difKlc)
 
