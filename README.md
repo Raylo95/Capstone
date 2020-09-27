@@ -20,7 +20,7 @@
      
     * [Machine Learning](https://github.com/Raylo95/Capstone/blob/master/README.md#machine-learning)
     
-4.[Results](https://github.com/Raylo95/Capstone/blob/master/README.md#4-results)
+4.[Results](https://github.com/Raylo95/Capstone/blob/master/README.md#4-results) and [PowerPoint](https://liveesu-my.sharepoint.com/:p:/g/personal/rlopez7_live_esu_edu/EYjzsGe6pwhPjcGcycHOQmoBmNg-lsaiD5bxaM0MtwT3dA?e=fQIyxc)
 
 
 
